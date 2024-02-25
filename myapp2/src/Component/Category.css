@@ -1,0 +1,12 @@
+.category-txt{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600; 
+    padding: 10px;
+    border-radius: 12px;
+    width: 13rem;
+    margin-bottom: 1rem;
+ }
+ .icon {
+    margin-right: 1rem;
+ }
